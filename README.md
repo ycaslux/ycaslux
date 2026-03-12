@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Lucas Gralha</h1>
-<h3 align="center">💻 Estudante de Ciência da Computação | Python | Automação</h3>
+<h3 align="center">💻 Estudante de Ciência da Computação | Engenheiro de Dados</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 🎓 Estudante de Ciência da Computação (7º semestre)  
 🐍 Desenvolvo projetos com Python  
 🤖 Automação com Selenium  
-📊 Interesse em dados e tecnologia  
+📊 Interesse em dados e automações  
 
 ---
 
