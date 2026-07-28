@@ -23,14 +23,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![Metrics](https://metrics.lecoq.io/ycaslux?template=classic&accessibility=true)
-
-
-
----
-
 ## 📫 Contato
 
 📧 Email: lgralhadev@email.com  
