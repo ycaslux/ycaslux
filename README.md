@@ -25,7 +25,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ycaslux&show_icons=true&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/ycaslux?template=classic&accessibility=true)
 
 
 
