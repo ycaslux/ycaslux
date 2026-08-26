@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de Ciência da Computação (7º semestre)  
+🎓 Estudante de Ciência da Computação (8º semestre)  
 🐍 Desenvolvo projetos com Python  
 🤖 Automação com Selenium  
 📊 Interesse em dados e automações  
